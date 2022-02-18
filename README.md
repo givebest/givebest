@@ -8,3 +8,10 @@
 - Node.js      ⭐⭐⭐
 - Vue.js       ⭐⭐⭐⭐⭐
 - WeChat Mini Program  ⭐⭐⭐⭐
+
+```mermaid
+  graph LR
+    A o--o B
+    B <--> C
+    C x--x D
+```
